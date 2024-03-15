@@ -14,7 +14,7 @@ namespace Sport_App.Model
 
         public Nutzer Nutzer { get; set; } = null!;
 
-        public List<TrainingsAufbau> TrainingAufbau { get; set; } = null!;
+        public List<TrainingsAufbau> TrainingsAufbau { get; set; } = null!;
 
         public int TrainingZeit { get; set; }
     }
