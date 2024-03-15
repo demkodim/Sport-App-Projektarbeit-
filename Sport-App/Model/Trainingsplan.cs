@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Sport_App.Model
 {
-    internal class Class
+    internal class Trainingsplan
     {
+        public int Id { get; set; }
+        
+        public int NutzerID { get; set; }
+
+        public Nutzer Nutzer { get; set; } = null!;
+
+        public List<TrainingsAufbau> TrainingAufbau { get; set; } = null!;
+
+        public int TrainingZeit { get; set; }
     }
 }
