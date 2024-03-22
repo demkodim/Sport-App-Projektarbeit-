@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Sport_App.Daten
 {
     // GSOPizzaContext Klasse erbt von DbContext, einem Teil des Entity Frameworks
-    internal class SportApp : DbContext
+    internal class SportAppContext : DbContext
     {
         // DbSet-Eigenschaften repräsentieren Tabellen in der Datenbank
         // Jede Eigenschaft ist stark typisiert mit einer Modellklasse
