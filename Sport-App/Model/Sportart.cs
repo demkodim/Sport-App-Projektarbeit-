@@ -12,7 +12,5 @@ namespace Sport_App.Model
 
         public string Name { get; set; } = null!;
 
-        public int Zeit { get; set; }
-
     }
 }

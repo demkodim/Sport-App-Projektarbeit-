@@ -16,6 +16,6 @@ namespace Sport_App.Model
 
         public List<TrainingsAufbau> TrainingsAufbau { get; set; } = null!;
 
-        public int TrainingZeit { get; set; }
+        
     }
 }

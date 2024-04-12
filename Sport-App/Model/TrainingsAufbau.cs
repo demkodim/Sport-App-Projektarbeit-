@@ -18,7 +18,7 @@ namespace Sport_App.Model
 
         public int TrainingsplanID { get; set; }
 
-        public List<Trainingsplan> Trainingsplans { get; set; } = null!;
+        public List<Trainingsplan> Trainingsplan { get; set; } = null!;
 
     }
 }

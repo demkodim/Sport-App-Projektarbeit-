@@ -15,8 +15,8 @@ namespace Sport_App.Model
         public int Alter { get; set; }
 
         public double Gewicht { get; set; }
-        
-        public List<Trainingsplan> Trainingsplan { get;set; }
+
+        public List<Trainingsplan> Trainingsplan { get; set; }
 
 
     }
