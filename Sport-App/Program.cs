@@ -57,7 +57,7 @@ TrainingsAufbau trainingsaufbau_1 = new TrainingsAufbau()
     Id = 1,
     Anzahl = 1,
     Sportart = sportart_1,
-  
+
 
 
 };
@@ -77,5 +77,5 @@ static async Task AlleNutzernAnzeigen(SportAppContext dbContext)
         Console.WriteLine($"NutzerId: {nutzer.Id}, Name: {nutzer.Name}, Alter: {nutzer.Alter}, Gewicht: {nutzer.Gewicht} ");
     }
 }
-Console.WriteLine("1");
+
 
