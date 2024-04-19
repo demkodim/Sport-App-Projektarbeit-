@@ -1,1 +1,2 @@
-![изображение_2024-04-12_051309440](https://github.com/demkodim/Sport-App-Projektarbeit-/assets/111420437/e0dcbae4-45f8-4c87-adba-a5a57fe7b59a)
+
+![123](https://github.com/demkodim/Sport-App-Projektarbeit-/assets/111420437/9c3729e2-0b22-45ec-b23e-432c3274e826)
